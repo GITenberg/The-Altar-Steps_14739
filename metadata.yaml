@@ -1,0 +1,31 @@
+_repo: The-Altar-Steps_14739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Anthony Edward Montagu Compton
+    - Mackenzie, Compton, Sir
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_issued: '2005-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Children of clergy -- Fiction'
+title: The Altar Steps
+url: http://www.gutenberg.org/ebooks/14739
